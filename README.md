@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-### Discord: https://
+### Discord: https://dc.leicraftmc.de
