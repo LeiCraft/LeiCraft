@@ -6,7 +6,7 @@ My Main Projects are:
 - LeiCoin: Open Source Cryptocurreny. It is curently a little Frun Project
 
 I am working for Simplias GmbH as a Softwaredeveloper
-Check it out on ["[https://mfr-deutschland.de"](https://www.mfr-deutschland.de/)
+Check it out on [https://mfr-deutschland.de](https://www.mfr-deutschland.de/)
 
 <!--
 **LeiCraft/LeiCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
