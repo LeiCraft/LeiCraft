@@ -5,9 +5,6 @@
 - ### LeiCoin: Open Source POS Based Cryptocurreny. 
 - ### LeiCraft_Client: A Minecraft Client that adds free Capes and Cosmetics to the game and is known for its creative Community
 
-### I am working for Simplias GmbH as a Softwaredeveloper
-### Check it out on [https://mfr-deutschland.de](https://www.mfr-deutschland.de/)
-
 <!--
 **LeiCraft/LeiCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
