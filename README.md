@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 
 
 ### Discord: [https://discord.gg/3cdazADhtv](https://discord.gg/3cdazADhtv)
+
+
+## My Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeiCraft&show_icons=true&locale=en"></p>
+<br/>
+
+## My Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiCraft"></p>
+<br/>
