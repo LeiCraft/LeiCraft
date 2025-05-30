@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <br/>
 
 ## My Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiCraft$"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeiCraft"></p>
 <br/>
